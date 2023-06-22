@@ -1,0 +1,12 @@
+{
+  "category": "Cine",
+  "question": "¿Quién mató a Dobby?",
+  "options": [
+    "Lucius Malfoy",
+    "Fenrir Greyback",
+    "Bellatrix Lestrange",
+    "Alecto Carrow"
+  ],
+  "answer": 2,
+  "explanation": "Cuando ayudó a Harry y a sus amigos a volar desde la mansión Malfoy, Bellatrix Lestrange les arrojó su cuchillo a él y a Harry mientras desaparecían."
+}
