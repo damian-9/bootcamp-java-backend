@@ -1,4 +1,4 @@
-{
+[{
   "category": "Cine",
   "question": "¿Quién mató a Dobby?",
   "options": [
@@ -9,4 +9,16 @@
   ],
   "answer": 2,
   "explanation": "Cuando ayudó a Harry y a sus amigos a volar desde la mansión Malfoy, Bellatrix Lestrange les arrojó su cuchillo a él y a Harry mientras desaparecían."
-}
+},
+{
+  "category": "Cine",
+  "question": "¿Quién es el mayor de los Weasley?",
+  "options": [
+    "George Weasley",
+    "Bill Weasley",
+    "Percy Weasley",
+    "Charly Weasley"
+  ],
+  "answer": 1,
+  "explanation": "¡Sí, esa es una pregunta difícil de Trivia Harry Potter! ¡Tantos niños! El orden correcto es: Bill, Charlie, Percy, Fred, George, Ron y Ginny."
+}]
